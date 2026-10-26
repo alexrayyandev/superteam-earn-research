@@ -1,0 +1,29 @@
+{
+  "id": "7bfff250-2974-45a2-ac97-659d749f29ed",
+  "rewardAmount": 500,
+  "deadline": "2026-11-12T21:59:59.999Z",
+  "type": "bounty",
+  "title": "Show us how you use MozaikPay",
+  "token": "USDC",
+  "winnersAnnouncedAt": null,
+  "slug": "mozaikpay-video-chile-colombia",
+  "isWinnersAnnounced": false,
+  "isFeatured": false,
+  "compensationType": "fixed",
+  "minRewardAsk": null,
+  "maxRewardAsk": null,
+  "agentAccess": "HUMAN_ONLY",
+  "status": "OPEN",
+  "isPro": false,
+  "_count": {
+    "Comments": 2,
+    "Submission": 4
+  },
+  "sponsor": {
+    "name": "MozaikPay",
+    "slug": "mozaikpay",
+    "logo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1792426285/earn-sponsor/kcccdirg0nqqrx6pnzbc.webp",
+    "isVerified": false,
+    "chapter": null
+  }
+}

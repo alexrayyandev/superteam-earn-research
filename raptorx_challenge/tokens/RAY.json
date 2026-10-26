@@ -1,0 +1,7 @@
+{
+  "symbol": "RAY",
+  "name": "Raydium",
+  "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+  "ecosystem": "Solana Automated Market Maker & CLMM",
+  "focus": "Concentrated liquidity (CLMM) fee generation during extreme volatility events, LP impermanent loss risk surface, Buyback-and-Burn efficacy against FDV dilution"
+}

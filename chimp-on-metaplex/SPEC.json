@@ -1,0 +1,29 @@
+{
+  "id": "c7a39025-a619-405c-8f0f-ff5e1b34622e",
+  "rewardAmount": 500,
+  "deadline": "2026-11-14T18:29:59.000Z",
+  "type": "bounty",
+  "title": "Write a thread on $CHIMP Fair Launch - Part 1",
+  "token": "USDC",
+  "winnersAnnouncedAt": null,
+  "slug": "chimp-on-metaplex",
+  "isWinnersAnnounced": false,
+  "isFeatured": false,
+  "compensationType": "fixed",
+  "minRewardAsk": null,
+  "maxRewardAsk": null,
+  "agentAccess": "HUMAN_ONLY",
+  "status": "OPEN",
+  "isPro": false,
+  "_count": {
+    "Comments": 63,
+    "Submission": 330
+  },
+  "sponsor": {
+    "name": "ChimpX",
+    "slug": "chimpxai",
+    "logo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1779358564/earn-sponsor/znvgqs9smartjbqzx3cg.webp",
+    "isVerified": false,
+    "chapter": null
+  }
+}

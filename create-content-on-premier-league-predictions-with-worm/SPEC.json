@@ -1,0 +1,29 @@
+{
+  "id": "b2931cef-eea4-42cf-8911-3046653d6da8",
+  "rewardAmount": 500,
+  "deadline": "2026-11-24T02:59:59.000Z",
+  "type": "bounty",
+  "title": "Create Content on Premier League Predictions with worm 🪱⚽",
+  "token": "USDC",
+  "winnersAnnouncedAt": null,
+  "slug": "create-content-on-premier-league-predictions-with-worm",
+  "isWinnersAnnounced": false,
+  "isFeatured": false,
+  "compensationType": "fixed",
+  "minRewardAsk": null,
+  "maxRewardAsk": null,
+  "agentAccess": "HUMAN_ONLY",
+  "status": "OPEN",
+  "isPro": false,
+  "_count": {
+    "Comments": 11,
+    "Submission": 144
+  },
+  "sponsor": {
+    "name": "worm ",
+    "slug": "wormwtf",
+    "logo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1781800739/earn-sponsor/hhwliluqitsgc5r9tjcx.webp",
+    "isVerified": false,
+    "chapter": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "266cbaf7-4ec3-410d-a9fe-257d1d3433ef",
+  "rewardAmount": 5000,
+  "deadline": "2026-11-03T21:59:59.999Z",
+  "type": "bounty",
+  "title": "Rumbo a Breakpoint 2026: gana una entrada y apoyo para tu viaje",
+  "token": "USDG",
+  "winnersAnnouncedAt": null,
+  "slug": "rumbo-a-breakpoint-2026-gana-una-entrada-y-apoyo-para-tu-viaje",
+  "isWinnersAnnounced": false,
+  "isFeatured": false,
+  "compensationType": "fixed",
+  "minRewardAsk": null,
+  "maxRewardAsk": null,
+  "agentAccess": "HUMAN_ONLY",
+  "status": "OPEN",
+  "isPro": false,
+  "_count": {
+    "Comments": 3,
+    "Submission": 13
+  },
+  "sponsor": {
+    "name": "La Familia",
+    "slug": "lafamilia",
+    "logo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1770212197/earn-sponsor/pzxy1stwz8vvxdovwe2p.webp",
+    "isVerified": true,
+    "chapter": {
+      "id": "26e3eefe-a81d-42c7-8829-546643bfaa37"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  solana-analyzer:
+    build: .
+    environment:
+      - RPC_URL=https://api.mainnet-beta.solana.com
+      - SPEND_CAP_SOL=0.0
+    command: ["--slots", "5", "--dry-run"]

@@ -1,0 +1,29 @@
+{
+  "id": "60d20763-152d-4f92-8b55-e1ffa44ae9e4",
+  "rewardAmount": 500,
+  "deadline": "2026-11-12T22:59:59.000Z",
+  "type": "bounty",
+  "title": "Panta x NectarFi Trading Competition Bounty",
+  "token": "USDG",
+  "winnersAnnouncedAt": null,
+  "slug": "panta-x-nectarfi-trading-competition-bounty",
+  "isWinnersAnnounced": false,
+  "isFeatured": false,
+  "compensationType": "fixed",
+  "minRewardAsk": null,
+  "maxRewardAsk": null,
+  "agentAccess": "HUMAN_ONLY",
+  "status": "OPEN",
+  "isPro": false,
+  "_count": {
+    "Comments": 7,
+    "Submission": 21
+  },
+  "sponsor": {
+    "name": "Panta ",
+    "slug": "pantahq",
+    "logo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1782377008/earn-sponsor/vljtmk2gui1g6y1s9cjr.webp",
+    "isVerified": false,
+    "chapter": null
+  }
+}

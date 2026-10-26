@@ -1,0 +1,7 @@
+{
+  "symbol": "PYTH",
+  "name": "Pyth Network",
+  "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+  "ecosystem": "Financial Oracle Network",
+  "focus": "Pull oracle latency vs push economics, cross-chain verification overhead on Pythnet, token staking utility (governance rights vs slashable security pool), and emission cliff absorption"
+}

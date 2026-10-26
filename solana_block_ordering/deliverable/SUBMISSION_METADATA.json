@@ -1,0 +1,17 @@
+{
+  "bounty": "Inside the Block: How Solana Validators Order Transactions",
+  "sponsor": "Superteam Ukraine",
+  "rewardPool": "2,500 USDC",
+  "author": "Alex Rayyan",
+  "email": "bansoslab2026@tutamail.com",
+  "wallet": "39YTqgacjKt1iz22SrvX4G3Ds8TUUjd9hWPPSJpdd2jZ",
+  "generatedAt": "2026-10-26T11:02:05.777Z",
+  "files": [
+    "src/solana_order_analyzer.py",
+    "research/VALIDATOR_SCHEDULER_MATH.md",
+    "research/VALIDATOR_ARCHITECTURE_AUDIT.md",
+    "deliverable/INSIDE_THE_BLOCK_REPORT.md",
+    "Dockerfile",
+    "docker-compose.yml"
+  ]
+}

@@ -111,3 +111,17 @@ Email Kontak: `bansoslab2026@tutamail.com`
   2. Masukkan link kode routing engine TypeScript dan dokumen whitepaper.
   3. Konfirmasi alamat wallet payout Solana: `39YTqgacjKt1iz22SrvX4G3Ds8TUUjd9hWPPSJpdd2jZ`.
 
+
+---
+
+## 10. Dune Dashboard for Paragraph Writing Coins (Base)
+- **Hadiah**: 250 USDC
+- **Sponsor**: Colin Armstrong (@colin) / Paragraph.xyz
+- **Platform**: Bountycaster / Farcaster
+- **Target Wallet (Base EVM)**: `0xf71e0734cb53162e8c9baaf5f49841a51c945899`
+- **File di Lenovo**:
+  - Deliverable & Cast Reply: `/home/bansos-lab/superteam_bounties/paragraph-writing-coins/BOUNTYCASTER_SUBMISSION.md`
+  - 4 Query DuneSQL (Trino): `/home/bansos-lab/superteam_bounties/paragraph-writing-coins/paragraph_dune_queries.sql`
+- **Cara Submit**:
+  1. Balas cast Colin di Farcaster/Bountycaster menggunakan template yang ada di `BOUNTYCASTER_SUBMISSION.md`.
+  2. Masukkan link SQL dan pastikan alamat wallet Base terlampir.

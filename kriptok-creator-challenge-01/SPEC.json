@@ -1,0 +1,29 @@
+{
+  "id": "11de63d7-6dfb-444c-8587-3d73037a4ede",
+  "rewardAmount": 200,
+  "deadline": "2026-11-18T20:59:59.999Z",
+  "type": "bounty",
+  "title": "Create Content About KriptoK · 200 USDC Creator Challenge",
+  "token": "USDC",
+  "winnersAnnouncedAt": null,
+  "slug": "kriptok-creator-challenge-01",
+  "isWinnersAnnounced": false,
+  "isFeatured": false,
+  "compensationType": "fixed",
+  "minRewardAsk": null,
+  "maxRewardAsk": null,
+  "agentAccess": "HUMAN_ONLY",
+  "status": "OPEN",
+  "isPro": false,
+  "_count": {
+    "Comments": 0,
+    "Submission": 0
+  },
+  "sponsor": {
+    "name": "KriptoK",
+    "slug": "kriptok",
+    "logo": "https://res.cloudinary.com/dgvnuwspr/image/upload/v1786969291/earn-sponsor/lymxhwdwvh5iuimk7kwj.webp",
+    "isVerified": false,
+    "chapter": null
+  }
+}
